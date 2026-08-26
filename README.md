@@ -15,8 +15,9 @@
    </div>
 
    <div style="margin-top: 100px;">
+      <p align="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=lucasramos14&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lucasramos14&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false" alt="Spotify" style="width: 100%; max-width: 200px; padding: 20px;">
-      </a>
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lucasramos14&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true"></a>
+      </p>
    </div>
 </div>
